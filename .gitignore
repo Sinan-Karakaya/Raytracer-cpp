@@ -1,0 +1,9 @@
+build/
+lib/
+*build*
+*.so
+raytracer
+*.ppm
+.idea/
+.vscode/
+install.sh
